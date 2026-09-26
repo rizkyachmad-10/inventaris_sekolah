@@ -23,7 +23,7 @@
 </head>
 
 
-<body class="authentication-bg bg-info">
+<body class="authentication-bg bg-primary">
     <div class="home-center">
         <div class="home-desc-center">
 
@@ -42,10 +42,10 @@
 
                                     <div class="text-center">
                                         <a href="index.html">
-                                            <img src="assets/images/Newcastle.png" height="150" alt="logo">
+                                            <img src="assets/images/logo-dark.png" height="20" alt="logo">
                                         </a>
 
-                                        <h5 class="text-info mb-2 mt-4">Welcome Back !</h5>
+                                        <h5 class="text-primary mb-2 mt-4">Welcome Back !</h5>
                                         <p class="text-muted">Sign in to continue to Morvin.</p>
                                     </div>
 
@@ -74,7 +74,7 @@
                                         </div>
 
                                         <div>
-                                            <button class="btn btn-info btn-lg rounded-pill w-100 waves-effect waves-light"
+                                            <button class="btn btn-primary btn-lg rounded-pill w-100 waves-effect waves-light"
                                             
                                                 type="submit">Log In</button>
                                         </div>
